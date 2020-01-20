@@ -184,3 +184,8 @@ $RECYCLE.BIN/
 
 # Visual Studio 2014 CTP
 **/*.sln.ide
+/.vs/IO.ClickSend/v16/Server/sqlite3/db.lock
+/.vs/IO.ClickSend/v16/Server/sqlite3/storage.ide
+/.vs/IO.ClickSend/v16/Server/sqlite3/storage.ide-shm
+/.vs/IO.ClickSend/v16/Server/sqlite3/storage.ide-wal
+/nuget.exe
